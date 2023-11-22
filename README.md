@@ -9,9 +9,8 @@
 <h2>Azure Virtual Machine Setup:</h2>
 
 <p>Created a virtual machine on Azure.
-Temporarily disabled the Windows Firewall on the virtual machine to simulate a scenario with the firewall turned off.</p>
+Temporarily disabled the Windows Firewall on the virtual machine to simulate a scenario of live cyber attacks.</p>
 <img width="720" alt="Screenshot 2023-11-10 at 11 05 49 AM" src="https://github.com/Bamlak11/CyberSecurity/assets/77420100/ed25cf42-637d-46b4-80b2-ecd8d10c0d8d">
-
 
 
 <h2>Log Analytics Workspace and Security Center Integration:</h2>
@@ -50,7 +49,7 @@ Extracted relevant fields from raw custom log data to facilitate easier analysis
 <h2>Azure Sentinel Visualization:</h2>
 
 <p>Configured Azure Sentinel to visualize geolocation data on a map using latitude and longitude information.
-Ensured optimal map plot sizes for a clear and comprehensible presentation of geolocation data.
+Ensured optimal map plot sizes for a clear presentation of the geolocation data.
 <img width="720" alt="Screenshot 2023-11-10 at 9 38 28 AM" src="https://github.com/Bamlak11/CyberSecurity/assets/77420100/7ffe7513-04b9-4746-899d-14349a479a4a">
 
 
