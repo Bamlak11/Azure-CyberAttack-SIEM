@@ -10,7 +10,8 @@
 
 <p>Created a virtual machine on Azure.
 Temporarily disabled the Windows Firewall on the virtual machine to simulate a scenario of live cyber attacks.</p>
-<img width="720" alt="Screenshot 2023-11-10 at 11 05 49 AM" src="https://github.com/Bamlak11/CyberSecurity/assets/77420100/ed25cf42-637d-46b4-80b2-ecd8d10c0d8d">
+<img width="720" alt="Screenshot 2023-11-10 at 11 05 49 AM" src="https://github.com/Bamlak11/Azure-CyberAttack-SIEM/assets/77420100/aea162e7-082d-44a9-a316-cdda7f3c3b80">
+
 
 
 <h2>Log Analytics Workspace and Security Center Integration:</h2>
@@ -29,7 +30,8 @@ Configured Azure Sentinel to enable advanced threat hunting, detection, and resp
 
 <p>Attempted to log into the virtual machine using Remote Desktop, intentionally causing a login failure.
 Reviewed Event Viewer logs on the virtual machine to analyze recorded events, including the login failure.</p>
-<img width="720" alt="Screenshot 2023-11-10 at 10 20 59 AM" src="https://github.com/Bamlak11/CyberSecurity/assets/77420100/9131f985-9c1c-4667-a5f6-3762d0797fd2">
+<img width="720" alt="Screenshot 2023-11-10 at 10 20 59 AM" src="https://github.com/Bamlak11/Azure-CyberAttack-SIEM/assets/77420100/a0371fcc-b601-4157-a417-d2292bd527e9">
+
 
 
 <h2>Geolocation Data Collection:</h2>
@@ -37,7 +39,8 @@ Reviewed Event Viewer logs on the virtual machine to analyze recorded events, in
 <p>Retrieved a crucial PowerShell script for obtaining geolocation data from potential attackers.
 Obtained an API key from Geolocation.io to access geolocation information in the PowerShell script.
 Executed the PowerShell script to collect geolocation data, enhancing cybersecurity capabilities with geospatial context.</p>
-<img width="720" alt="Screenshot 2023-11-10 at 9 59 22 AM" src="https://github.com/Bamlak11/CyberSecurity/assets/77420100/c70c2c35-4e4e-44ae-ad2c-1dc6f46909f0">
+<img width="720" alt="Screenshot 2023-11-10 at 9 59 22 AM" src="https://github.com/Bamlak11/Azure-CyberAttack-SIEM/assets/77420100/e092fd43-b6c3-4109-a740-09e8256ef4e6">
+
 
 
 <h2>Custom Log and Field Extraction:</h2>
@@ -50,7 +53,7 @@ Extracted relevant fields from raw custom log data to facilitate easier analysis
 
 <p>Configured Azure Sentinel to visualize geolocation data on a map using latitude and longitude information.
 Ensured optimal map plot sizes for a clear presentation of the geolocation data.
-<img width="720" alt="Screenshot 2023-11-10 at 9 38 28 AM" src="https://github.com/Bamlak11/CyberSecurity/assets/77420100/7ffe7513-04b9-4746-899d-14349a479a4a">
+<img width="720" alt="Screenshot 2023-11-10 at 9 38 28 AM" src="https://github.com/Bamlak11/Azure-CyberAttack-SIEM/assets/77420100/1ec9df0f-2429-441b-9756-15068ff0ef80">
 
 
   
