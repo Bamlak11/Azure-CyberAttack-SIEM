@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-<b>I began by setting up a virtual machine, temporarily disabling the Windows Firewall for the simulation. I then established a Log Analytics Workspace and configured Azure Sentinel for advanced threat detection. I intentionally triggered a Remote Desktop login failure, then analyzed events in the Event Viewer. The project then focused on geolocation data, utilizing a PowerShell script and Geolocation.io API key. Data was stored in a custom log, with relevant fields extracted for analysis like the longitude and latitude. Finally, Azure Sentinel was created to visualize the geolocation data, providing a live cyber attack on a world map.</b>
+<b>I began by setting up a virtual machine and temporarily disabling the Windows Firewall for the simulation. I then established a Log Analytics Workspace and configured Azure Sentinel for advanced threat detection. I intentionally triggered a Remote Desktop login failure, then analyzed events in the Event Viewer. The project then focused on geolocation data, utilizing a PowerShell script and Geolocation.io API key. Data was stored in a custom log, with relevant fields extracted for analysis like the longitude and latitude. Finally, Azure Sentinel was created to visualize the geolocation data, providing a live cyber attack on a world map.</b>
 
 
 
