@@ -1,4 +1,4 @@
---- I used to information the the log analytics workspace to filter out geographical data.
+--- I used to information the log analytics workspace to filter out geographical data.
 
  FAILED_LOG_GEO_LC_CL
  |extend username = extract(@"username:([^,]+)", 1, RawData),
